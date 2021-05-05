@@ -40,7 +40,8 @@ background-image: url(image/game.jpg);
     height: 70px;
     font-size: 30px;
     color: #FF0051 ;
-    border: solid;   
+    border: solid;
+    cursor: pointer;
     
 }
 
