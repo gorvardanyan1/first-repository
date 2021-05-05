@@ -1,0 +1,75 @@
+body {
+background-image: url(image/game.jpg);
+}
+#mani {
+    margin-left: 1230px;
+    width: 300px;
+    height: 750px;
+}
+.milionmany {
+    color: #ffffff; 
+    text-align: center;
+    font-size: 30px;
+    margin-top: -3px;
+    margin-bottom: 17px;
+}
+
+#questionAnswer {
+    float: left;
+     width: 780px;
+    height: 400px; 
+    margin-left: 250px;
+    margin-top: px;
+    text-align: center;
+}
+
+#answer  {
+    text-align: center;
+    margin-left: 20px;
+    width: 660px;
+    height: 150px;
+    font-size: 30px;
+    color: #FF0051;
+   
+}
+.question1  {
+    float: left;
+    margin-top: 60px;
+    margin-left: 5px;
+    width: 370px;
+    height: 70px;
+    font-size: 30px;
+    color: #FF0051 ;
+    border: solid;   
+    
+}
+
+
+#phone{
+    width: 80px;
+    height: 60px;
+  
+}
+#five {
+    width: 100px;
+    width: 80px;
+}
+#auditor {
+  width: 80px;
+  height: 60px;
+ 
+}
+#sos {
+   width: 400px;
+   height: 70px;
+   font-size: 20px;
+   color:  #FF0051;
+   width: 780px;
+   text-align: center;
+}
+#butt{
+    margin-top: 300px;
+    width: 90px;
+    float: left;
+    
+}
