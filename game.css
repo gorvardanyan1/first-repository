@@ -73,7 +73,7 @@ background-image: url(image/game.jpg);
     
 }
 
- @media screen and (max-width:265px) and (max-height:454px){
+ @media screen and (max-width:265px){
     
     #questionAnswer {
         margin-top: 50px;
